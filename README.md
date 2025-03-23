@@ -1,6 +1,19 @@
 # GeoCarbon-Optimization-A-Spatial-Data-Challenge
 ## Overview
-GeoCarbon-Optimization-A-Spatial-Data-Challenge is a project aimed at optimizing the spatial data for carbon emission reduction strategies. This project utilizes various data analysis and machine learning techniques to analyze spatial data and provide insights for better carbon management.
+This project demonstrates geospatial data analysis and optimization using Python.
+Given a set of land parcel polygons, the goal is to maximize the total carbon storage while adhering to budgetary and adjacency constraints. 
+
+The project involves:
+
+Geospatial Data Manipulation: Using GeoPandas for polygon data manipulation and spatial operations.
+
+Coordinate System Management: Reprojecting polygon data for accurate area measurements.
+
+Adjacency Calculation: Identifying adjacent polygons using edge-sharing criteria.
+
+Optimization Modeling: Formulating and solving a Mixed Integer Linear Programming (MILP) problem using PuLP.
+
+Visualization: Plotting the selected polygons and visualizing the results.
 
 ## Contents
 - main.ipynb: The main Jupyter Notebook containing the code and analysis for the project.
