@@ -26,7 +26,7 @@ Follow these instructions to replicate the development environment:
    .\env\Scripts\activate
    ```
   . For macOS and Linux:
-  ```sh
+   ```sh
     source env/bin/activate
    ```
 5. Install the required dependencies:
