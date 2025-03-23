@@ -27,6 +27,12 @@ Follow these instructions to replicate the development environment:
   . For macOS and Linux:
   ```sh
     source env/bin/activate
+
 5. Install the required dependencies:
-```sh
-pip install -r requirements.txt
+   ```sh
+   pip install -r requirements.txt
+
+## Usage
+To run the Jupyter Notebook and explore the geospatial data analysis and optimization, follow these steps:
+
+Start Jupyter Notebook:
