@@ -57,3 +57,4 @@ jupyter notebook
 ```
 2. Open the main.ipynb notebook file.
 3. Run the cells in the notebook to see the analysis and results.
+4. **NOTE** : Please replace the string inside the data_frame initialisation with the path of the land_parcels.shp before running all the cells
