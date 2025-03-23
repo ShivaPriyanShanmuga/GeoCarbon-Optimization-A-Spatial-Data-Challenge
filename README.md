@@ -5,15 +5,15 @@ Given a set of land parcel polygons, the goal is to maximize the total carbon st
 
 The project involves:
 
-Geospatial Data Manipulation: Using GeoPandas for polygon data manipulation and spatial operations.
+-> Geospatial Data Manipulation: Using GeoPandas for polygon data manipulation and spatial operations.
 
-Coordinate System Management: Reprojecting polygon data for accurate area measurements.
+-> Coordinate System Management: Reprojecting polygon data for accurate area measurements.
 
-Adjacency Calculation: Identifying adjacent polygons using edge-sharing criteria.
+-> Adjacency Calculation: Identifying adjacent polygons using edge-sharing criteria.
 
-Optimization Modeling: Formulating and solving a Mixed Integer Linear Programming (MILP) problem using PuLP.
+-> Optimization Modeling: Formulating and solving a Mixed Integer Linear Programming (MILP) problem using PuLP.
 
-Visualization: Plotting the selected polygons and visualizing the results.
+-> Visualization: Plotting the selected polygons and visualizing the results.
 
 ## Contents
 - main.ipynb: The main Jupyter Notebook containing the code and analysis for the project.
