@@ -24,6 +24,7 @@ Follow these instructions to replicate the development environment:
   . For Windows: 
    ```sh
    .\env\Scripts\activate
+   
   . For macOS and Linux:
   ```sh
     source env/bin/activate
