@@ -6,7 +6,27 @@ GeoCarbon-Optimization-A-Spatial-Data-Challenge is a project aimed at optimizing
 - main.ipynb: The main Jupyter Notebook containing the code and analysis for the project.
 
 ## Installation
-To run this project locally, you will need to have Python and Jupyter Notebook installed on your system. You can install the required dependencies using the following command:
+Follow these instructions to replicate the development environment:
 
-```bash
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ShivaPriyanShanmuga/GeoCarbon-Optimization-A-Spatial-Data-Challenge.git
+
+2. Navigate to the project directory:
+   ```sh
+   cd GeoCarbon-Optimization-A-Spatial-Data-Challenge
+
+3. Create a virtual environment:
+   ```sh
+   python -m venv env
+   
+4. Activate the virtual environment:
+  . For Windows: 
+   ```sh
+   .\env\Scripts\activate
+  . For macOS and Linux:
+  ```sh
+    source env/bin/activate
+5. Install the required dependencies:
+```sh
 pip install -r requirements.txt
