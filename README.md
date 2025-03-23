@@ -21,10 +21,12 @@ Follow these instructions to replicate the development environment:
    python -m venv env
    ```
 4. Activate the virtual environment:
+   
   . For Windows: 
    ```sh
    .\env\Scripts\activate
    ```
+   
   . For macOS and Linux:
    ```sh
     source env/bin/activate
